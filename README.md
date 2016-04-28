@@ -26,3 +26,7 @@ no
 
 yes
 ```
+
+## Ссылки
+- [Be Like Water — A Shapeless Primer](https://speakerdeck.com/evacchi/be-like-water-a-shapeless-primer)
+- [Execute Prolog Online](http://www.tutorialspoint.com/execute_prolog_online.php)
