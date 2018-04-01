@@ -1,6 +1,8 @@
-# Scala Typelevel logic example
+# Scalalog
 
-## Пример фактов и правил в Prolog
+Scala compiler as simple logic programming system.
+
+## Example Prolog facts and rules.
 
 ```prolog
 
@@ -15,7 +17,7 @@ grandchild(A, B):-
 
 ```
 
-## Пример запроса в Prolog
+## Prolog queries
 
 ```prolog
 | ?- grandchild(carl, tom). 
